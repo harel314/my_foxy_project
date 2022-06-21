@@ -1,0 +1,26 @@
+[0.543s] Invoking command in '/home/algo/Harel/ros2_ws/build/my_py_pkg': CMAKE_PREFIX_PATH=/home/algo/Harel/ros2_ws/install/my_robot_interfaces:/home/algo/Harel/ros2_ws/install/my_robot_bringup:/home/algo/Harel/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/algo/Harel/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/algo/Harel/ros2_ws/install/my_py_pkg --editable --build-directory /home/algo/Harel/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/algo/Harel/ros2_ws/install/my_py_pkg
+[0.680s] running develop
+[0.754s] running egg_info
+[0.754s] writing my_py_pkg.egg-info/PKG-INFO
+[0.754s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.754s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.754s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.754s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.777s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.778s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.800s] running build_ext
+[0.801s] Creating /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/my-py-pkg.egg-link (link to .)
+[0.801s] Installing add_two_ints_client script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.801s] Installing add_two_ints_client_no_oop script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.801s] Installing add_two_ints_server script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing hw_status_publisher script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing number_counter script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing number_publisher script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing py_node script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing reset_number_count script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing robot_news_station script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] Installing smartphone script to /home/algo/Harel/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.802s] 
+[0.802s] Installed /home/algo/Harel/ros2_ws/build/my_py_pkg
+[0.802s] running install_data
+[0.820s] Invoked command in '/home/algo/Harel/ros2_ws/build/my_py_pkg' returned '0': CMAKE_PREFIX_PATH=/home/algo/Harel/ros2_ws/install/my_robot_interfaces:/home/algo/Harel/ros2_ws/install/my_robot_bringup:/home/algo/Harel/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/algo/Harel/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/algo/Harel/ros2_ws/install/my_py_pkg --editable --build-directory /home/algo/Harel/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/algo/Harel/ros2_ws/install/my_py_pkg
